@@ -1,5 +1,5 @@
 # Ministry of Agricultrue
-![Ministry of Agriculture]('./public/moa logo.png')
+![Ministry of Agriculture](https://github.com/acatech-ethio/integration-foxx/blob/main/public/moa%20logo.png)
 
 
 ## Integration with Apache airflow
@@ -10,6 +10,6 @@
 
 to use this service you have to install it to arrangodb services tab.
 
-[Github Link to this services](http://example.com)
+[Github Link to this services](https://github.com/acatech-ethio/integration-foxx)
 
 Copyright (c) 2022 acatech All rights reserved.
